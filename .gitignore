@@ -3,4 +3,4 @@ venv
 *.pyc
 db.sqlite3
 db.sqlite3-journalt
-ignore.py
+mysite/mysite/ignore.py
